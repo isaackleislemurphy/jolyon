@@ -1,0 +1,4 @@
+###### Requirements for Jolyon ######
+numpy == 1.20.1
+pandas == 1.2.4
+coverage == 3.35.4
